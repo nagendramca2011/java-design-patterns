@@ -5,6 +5,7 @@ Design Pattern
 Creational design patterns are concerned with `the way of creating objects`. These design patterns are used when a decision must be made at the time of instantiation of a class (i.e. creating an object of a class).
 
 * [Factory Method Pattern][]
+* [Singleton Pattern][]
 
 ### Structural Pattern
 
@@ -31,3 +32,4 @@ That means the implementation and the client should be loosely coupled in order 
 
 
 [Factory Method Pattern]:  https://github.com/nagendramca2011/java-design-patterns/blob/master/Factory%20Method%20Pattern.md
+[Singleton Pattern] : https://github.com/nagendramca2011/java-design-patterns/blob/master/Singleton%20Pattern.md
