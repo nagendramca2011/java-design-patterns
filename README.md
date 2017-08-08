@@ -32,4 +32,4 @@ That means the implementation and the client should be loosely coupled in order 
 
 
 [Factory Method Pattern]:  https://github.com/nagendramca2011/java-design-patterns/blob/master/Factory%20Method%20Pattern.md
-[Singleton Pattern] : https://github.com/nagendramca2011/java-design-patterns/blob/master/Singleton%20Pattern.md
+[Singleton Pattern]: https://github.com/nagendramca2011/java-design-patterns/blob/master/Singleton%20Pattern.md
